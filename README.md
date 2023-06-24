@@ -1,4 +1,4 @@
-<p align='center'><a href='https://linktr.ee/pulkitxm'><img src='./images/banner.gif'></a></p>
+<p align='center'><a href='https://linktr.ee/pulkitxm'><img src='./images/banner.gif' height=300></a></p>
 
 <br>
 
