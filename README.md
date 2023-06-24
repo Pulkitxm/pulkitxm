@@ -12,13 +12,13 @@
 
 <img align="right" alt="Coding" width="400" src="images/programmer.gif">
 
-<p align="center"><img src="https://profile-counter.glitch.me/{pulkitxm}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+<p align="center"><img src="https://profile-counter.glitch.me/{pulkitxm}/count.svg" alt="pulkitxm :: Visitor's Count" />
 </p>
 
 <br>
 
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow" width=130 height=30/>&nbsp; &nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=pulkitxm.pulkitxm" width=100 height=30/>
-&nbsp; &nbsp;<img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars" width=100 height=30>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/pulkitxm?color=236ad3&style=for-the-badge&logo=github&label=Follow" width=130 height=30/>&nbsp; &nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=pulkitxm.pulkitxm" width=100 height=30/>
+&nbsp; &nbsp;<img src="https://img.shields.io/github/stars/pulkitxm?label=Stars" alt="stars" width=100 height=30>
 
 <br>
 
