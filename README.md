@@ -3,7 +3,7 @@
 <br>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=ink+free&size=40&pause=1000&width=600&height=90&lines=Hi!+I+am+Pulkit;Hello!+I%27m+passionate+in+Web-Dev;Skilled+front-end+dev+with+UI+focus;Active+in+Git%2C+GitHub%2C+open-source.;Modern+UIs%2C+React.js+expertise.;Love+coding+challenges%2C+tech+exploration.;Constant+learner%2C+diverse+language+knowledge.;Up-to-date+with+trends%2C+best+practices.;Connect%2C+contribute%2C+make+an+impact" alt="Typing SVG" /></p>
 <br>
-<h3 align="center">Aspiring FullStack Developer from India</h3>
+[![An image of @pulkitxm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pulkitxm)](https://holopin.io/@pulkitxm)
 <br>
 <h1 align="center"><p align="center"><img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" width="160" height="40" /><img src="./images/wave.gif" alt="Animated GIF" width="40" height="40"  /></p></h1>
 
