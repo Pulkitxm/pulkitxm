@@ -27,16 +27,15 @@
 <br>
 
 <p align="left">  
+- 💻 Proficient in React.js with a focus on frontend development
+ 
+- 🚀 Passionate about exploring the latest web technologies
 
-- 💬 Currently Exploring **Reactjs**
+- 📚 Continuously learning and growing as a web developer
 
-- 🔭 Embarking on my journey as a **Web Developer**
+- 📧 Reach out to me at kpulkit15234@gmail.com for tech discussions
 
-- 🌱 Learning and growing in the field of **Frontend Development**
-
-- 📫 Reach me at kpulkit15234@gmail.com to connect and discuss tech
-
-- ⚡ Fun fact: I love to explore new technologies and experiment with creative coding
+- ✨ Fun fact: I enjoy experimenting with creative coding and pushing the boundaries of technology
 
 </p>
 <img src='./images/github-contribution-snake.svg'>
