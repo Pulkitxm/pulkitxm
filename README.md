@@ -28,7 +28,9 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳
 
 ---
 
-### :sparkles: [My followers](https://github.com/Pulkitxm?tab=followers)
+<!--START_SECTION:top-followers-heading-->
+### :sparkles: [My followers (58)](https://github.com/Pulkitxm?tab=followers)
+<!--End_SECTION:top-followers-heading-->
 
 <!--START_SECTION:top-followers-->
 <div style="display: flex; justify-content: center; flex-wrap: wrap;"><a href="https://github.com/trinhminhtriet" target="_blank"><img src="https://avatars.githubusercontent.com/u/1650997?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>

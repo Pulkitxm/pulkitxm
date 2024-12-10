@@ -1,7 +1,10 @@
 import dotenv from "dotenv";
 dotenv.config();
 
-console.log(process.env.ACCESS_TOKEN);
+if(process.env.ACCESS_TOKEN === undefined){
+  console.error("Please provide ACCESS_TOKEN in .env file");
+  process.exit(1);
+}
 
 import { Octokit } from "@octokit/rest";
 import { readFileSync, writeFileSync } from "fs";
@@ -34,8 +37,14 @@ const getLatestFollowers = async () => {
 
 async function main() {
   const followers = await getLatestFollowers();
-
+  const followersLength = followers.length;
   let readme = readFileSync(READMEFILE_PATH, "utf-8");
+
+  readme = readme.replace(
+    /(?<=<!--START_SECTION:top-followers-heading-->\n### :sparkles: \[My followers \()(\d+)(?=\)\])/,
+    `${followersLength}`
+  );
+
   readme = readme.replace(
     /(?<=<!--START_SECTION:top-followers-->\n)[\s\S]*(?=\n<!--END_SECTION:top-followers-->)/,
     `<div style="display: flex; justify-content: center; flex-wrap: wrap;">` +
@@ -47,6 +56,12 @@ async function main() {
         .join("\n") +
       `</div>`
   );
+
+ 
+
+  // Update the followers count
+
+
   writeFileSync(READMEFILE_PATH, readme);
 }
 
