@@ -29,7 +29,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳
 ---
 
 <!--START_SECTION:top-followers-heading-->
-### :sparkles: [My followers (58)](https://github.com/Pulkitxm?tab=followers)
+### :sparkles: [My followers (59)](https://github.com/Pulkitxm?tab=followers)
 <!--End_SECTION:top-followers-heading-->
 
 <!--START_SECTION:top-followers-->
