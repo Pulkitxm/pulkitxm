@@ -18,7 +18,12 @@ My name is Pulkit. I'm a senior undergraduate from 🇮🇳
 ### :pencil: [Latest blog posts](https://blogs.devpulkit.in)
 
 <!--START_SECTION:blog-posts-->
-
+| Title | Date | Image | Read More |
+| ----- | ---- | ----- | --------- |
+| [Boost Your Link Previews: Implementing Open Graph Images in Next.js](https://blogs.devpulkit.in/open-graph-images-in-nextjs) | Nov 15, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731658433998/70bdbb5d-1123-478d-b35a-316169ce5615.png" width="200" height="auto" /> | [Read More](https://blogs.devpulkit.in/open-graph-images-in-nextjs) |
+| [Setting Up Prisma ORM with PostgreSQL](https://blogs.devpulkit.in/setting-up-prisma-orm-with-postgresql) | Aug 17, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723130667161/ac898f4d-f350-441f-bff7-77acfa210444.png" width="200" height="auto" /> | [Read More](https://blogs.devpulkit.in/setting-up-prisma-orm-with-postgresql) |
+| [Adding Animated Image Zoom to Your React App with PhotoSwipe](https://blogs.devpulkit.in/react-image-gallery-with-photoswipe) | Aug 12, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723050714944/ecb7f6c0-7151-4ce1-9c57-08c47e2a6625.jpeg" width="200" height="auto" /> | [Read More](https://blogs.devpulkit.in/react-image-gallery-with-photoswipe) |
+| [Creating a Custom Context Menu in React with react-contexify](https://blogs.devpulkit.in/react-contexify-context-menu) | Aug 10, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723299988659/d89577ae-d1ab-45f7-aff3-867006182116.gif" width="200" height="auto" /> | [Read More](https://blogs.devpulkit.in/react-contexify-context-menu) |
 <!--END_SECTION:blog-posts-->
 
 ---
