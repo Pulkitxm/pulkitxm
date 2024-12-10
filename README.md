@@ -1,17 +1,17 @@
-My name is Pulkit. I'm a senior undergraduate from 🇮🇳
+My name is Pulkit. I'm a undergraduate from 🇮🇳
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pulkitxm&theme=dark&hide_border=true">
     <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkitxm&theme=dark&hide_border=true">
 </picture>
 
+- :computer: Know more about me: [devpulkit.in](https://www.devpulkit.in/)
 - :pencil2: JavaScript / TypeScript / Python
 - :package: [Ubuntu](https://ubuntu.com/) / [vscode](https://code.visualstudio.com) / [edge](https://www.microsoft.com/en-us/edge)
 - :seedling: Exploring new opportunities in tech!
 - :thought_balloon: Ask me anything at [Discussions](https://github.com/pulkitxm/pulkitxm/discussions/new/choose)!
-- :star: [Projects starred by me](AWESOME-STARS.md)
+- :star: [Projects starred by me](https://github.com/Pulkitxm?tab=stars)
 - :pushpin: Most active on [PulkitXm](https://github.com/pulkitxm)
-- :computer: Tech enthusiast & full-stack developer
 
 ---
 
@@ -94,12 +94,22 @@ My name is Pulkit. I'm a senior undergraduate from 🇮🇳
 
 ---
 
+### GitHub Certifications
+[<img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="300"/>](https://www.credly.com/badges/0d980c06-511c-4e3d-a9a7-9973688b34ad)
+
+---
+
+### Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/pulkitxm)
+- [Twitter](https://x.com/devpulkitt)
+- [Email](mailto:kpulkit15234@gmail.com)
+
+---
+
 ### :bar_chart: [Coding time in the last month](https://wakatime.com/@pulkitxm)
 
-<!--START_SECTION:waka-->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@pulkitxm/cb46d850-e95d-4ed6-82ea-f09e6a9ca05d.svg">
-    <img align="right" width="100%" src="https://wakatime.com/share/@pulkitxm/cb46d850-e95d-4ed6-82ea-f09e6a9ca05d.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@pulkitxm/b09efaa2-860c-4ed4-afbe-4a645828d6fe.svg">
+    <img align="right" width="100%" src="https://wakatime.com/share/@pulkitxm/b09efaa2-860c-4ed4-afbe-4a645828d6fe.svg">
 </picture>
-
-<!--END_SECTION:waka-->
