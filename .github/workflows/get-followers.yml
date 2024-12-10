@@ -1,4 +1,4 @@
-name: Blog Posts
+name: Get Followers
 
 on:
   workflow_dispatch:
@@ -6,22 +6,22 @@ on:
     - cron: "30 0 * * *" # This will run the workflow every day at 12:30 AM UTC or 6:00 AM IST
 
 jobs:
-  update-posts:
+  update-followers:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Update post list
+      - name: Update followers list
         run: |
-          cd scripts && npm install && npm run get:posts
+          cd scripts && npm install && ACCESS_TOKEN=${{ secrets.ACCESS_TOKEN }} npm run get:followers
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git diff-index --quiet HEAD || git commit -m "Update blog posts"
+          git diff-index --quiet HEAD || git commit -m "Update followers list"
       - name: Pull changes
         run: git pull -r
       - name: Push changes
         uses: ad-m/github-push-action@d91a481090679876dfc4178fef17f286781251df
         with:
-          github_token: ${{ secrets.ACCESS_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}

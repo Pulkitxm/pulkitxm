@@ -5,12 +5,14 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "get:posts": "node src/fetchLatestBlogPosts.js"
+    "get:posts": "node src/fetchLatestBlogPosts.js",
+    "get:followers": "node src/fetchFollowers.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@octokit/rest": "^21.0.2",
     "axios": "^1.7.9",
     "dotenv": "^16.4.7",
     "zod": "^3.23.8"

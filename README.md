@@ -34,5 +34,9 @@ My name is Pulkit. I'm a senior undergraduate from 🇮🇳
 ### :bar_chart: [Coding time in the last month](https://wakatime.com/@pulkitxm)
 
 <!--START_SECTION:waka-->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@pulkitxm/cb46d850-e95d-4ed6-82ea-f09e6a9ca05d.svg">
+    <img align="right" width="100%" src="https://wakatime.com/share/@pulkitxm/cb46d850-e95d-4ed6-82ea-f09e6a9ca05d.svg">
+</picture>
 
 <!--END_SECTION:waka-->
