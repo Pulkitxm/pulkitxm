@@ -120,5 +120,5 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳
 ---
 
 <!--START_SECTION:workflows-->
-*Note: All the data displayed above is updated automatically via GitHub Actions. There have been **3** workflow runs so far.*
+*Note: All the data displayed above is updated automatically via GitHub Actions. There have been **6** workflow runs so far.*
 <!--END_SECTION:workflows-->
