@@ -100,8 +100,6 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳
 
 ---
 
-### :bar_chart: Coding time in the last month
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@pulkitxm/b09efaa2-860c-4ed4-afbe-4a645828d6fe.svg">
     <img src="https://wakatime.com/share/@pulkitxm/b09efaa2-860c-4ed4-afbe-4a645828d6fe.svg" width="100%" height="auto" style="max-height: 400px; object-fit: contain;">
