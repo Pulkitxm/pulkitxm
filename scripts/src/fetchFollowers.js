@@ -8,6 +8,7 @@ if(process.env.ACCESS_TOKEN === undefined){
 
 import { Octokit } from "@octokit/rest";
 import { readFileSync, writeFileSync } from "fs";
+import { updateWorkflowNumber } from "./updateWorkflowNumber.js";
 import { READMEFILE_PATH } from "./config.js";
 
 const octokit = new Octokit({
@@ -65,4 +66,6 @@ async function main() {
   writeFileSync(READMEFILE_PATH, readme);
 }
 
-main();
+main().then(async()=>{
+  await updateWorkflowNumber()
+})

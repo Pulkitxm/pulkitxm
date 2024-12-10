@@ -100,6 +100,17 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳
 
 ---
 
+### :bar_chart: Coding time in the last month
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@pulkitxm/b09efaa2-860c-4ed4-afbe-4a645828d6fe.svg">
+    <img src="https://wakatime.com/share/@pulkitxm/b09efaa2-860c-4ed4-afbe-4a645828d6fe.svg" width="100%" height="auto" style="max-height: 400px; object-fit: contain;">
+</picture>
+
+<br/><br/>
+
+---
+
 ### Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/pulkitxm)
@@ -108,9 +119,6 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳
 
 ---
 
-### :bar_chart: [Coding time in the last month](https://wakatime.com/@pulkitxm)
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@pulkitxm/b09efaa2-860c-4ed4-afbe-4a645828d6fe.svg">
-    <img align="right" width="100%" src="https://wakatime.com/share/@pulkitxm/b09efaa2-860c-4ed4-afbe-4a645828d6fe.svg">
-</picture>
+<!--START_SECTION:workflows-->
+*Note: All the data displayed above is updated automatically via GitHub Actions. There have been **3** workflow runs so far.*
+<!--END_SECTION:workflows-->
