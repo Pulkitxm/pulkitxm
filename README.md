@@ -70,6 +70,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳
 <a href="https://github.com/Deb0071" target="_blank"><img src="https://avatars.githubusercontent.com/u/123491673?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/Faisal786111" target="_blank"><img src="https://avatars.githubusercontent.com/u/124188437?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/AayushhGoyal" target="_blank"><img src="https://avatars.githubusercontent.com/u/126490041?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
+<a href="https://github.com/pulkitxm2" target="_blank"><img src="https://avatars.githubusercontent.com/u/129366644?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/Some1Uknow" target="_blank"><img src="https://avatars.githubusercontent.com/u/130275024?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/AbinashC2" target="_blank"><img src="https://avatars.githubusercontent.com/u/132013987?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/davidfgomes" target="_blank"><img src="https://avatars.githubusercontent.com/u/132530609?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
@@ -118,5 +119,5 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳
 ---
 
 <!--START_SECTION:workflows-->
-*Note: All the data displayed above is updated automatically via GitHub Actions. There have been **6** workflow runs so far.*
+*Note: All the data displayed above is updated automatically via GitHub Actions. There have been **8** workflow runs so far.*
 <!--END_SECTION:workflows-->
