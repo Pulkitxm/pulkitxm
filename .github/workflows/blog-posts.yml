@@ -3,7 +3,7 @@ name: Blog Posts
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 0 * * *" # This will run the workflow every day at 12:30 AM UTC or 6:00 AM IST
+    - cron: "35 0 * * *" # 6:05 AM IST
 
 jobs:
   update-posts:
