@@ -21,7 +21,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳
 | Title | Date | Image | Read More |
 | ----- | ---- | ----- | --------- |
 | [Boost Your Link Previews: Implementing Open Graph Images in Next.js](https://blogs.devpulkit.in/open-graph-images-in-nextjs) | Nov 15, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731658433998/70bdbb5d-1123-478d-b35a-316169ce5615.png" width="200" height="auto" /> | [Read More](https://blogs.devpulkit.in/open-graph-images-in-nextjs) |
-| [Setting Up Prisma ORM with PostgreSQL](https://blogs.devpulkit.in/setting-up-prisma-orm-with-postgresql) | Aug 17, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723130667161/ac898f4d-f350-441f-bff7-77acfa210444.png" width="200" height="auto" /> | [Read More](https://blogs.devpulkit.in/setting-up-prisma-orm-with-postgresql) |
+| [Setting Up Prisma ORM with PostgreSQL](https://blogs.devpulkit.in/setting-up-prisma-orm-with-postgresql) | Aug 17, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734016058521/1d653d70-3204-40fa-9272-58298cd8e663.webp" width="200" height="auto" /> | [Read More](https://blogs.devpulkit.in/setting-up-prisma-orm-with-postgresql) |
 | [Adding Animated Image Zoom to Your React App with PhotoSwipe](https://blogs.devpulkit.in/react-image-gallery-with-photoswipe) | Aug 12, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723050714944/ecb7f6c0-7151-4ce1-9c57-08c47e2a6625.jpeg" width="200" height="auto" /> | [Read More](https://blogs.devpulkit.in/react-image-gallery-with-photoswipe) |
 | [Creating a Custom Context Menu in React with react-contexify](https://blogs.devpulkit.in/react-contexify-context-menu) | Aug 10, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723299988659/d89577ae-d1ab-45f7-aff3-867006182116.gif" width="200" height="auto" /> | [Read More](https://blogs.devpulkit.in/react-contexify-context-menu) |
 <!--END_SECTION:blog-posts-->
@@ -29,12 +29,11 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳
 ---
 
 <!--START_SECTION:top-followers-heading-->
-### :sparkles: [My followers (60)](https://github.com/Pulkitxm?tab=followers)
+### :sparkles: [My followers (58)](https://github.com/Pulkitxm?tab=followers)
 <!--End_SECTION:top-followers-heading-->
 
 <!--START_SECTION:top-followers-->
-<div style="display: flex; justify-content: center; flex-wrap: wrap;"><a href="https://github.com/trinhminhtriet" target="_blank"><img src="https://avatars.githubusercontent.com/u/1650997?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
-<a href="https://github.com/mustafacagri" target="_blank"><img src="https://avatars.githubusercontent.com/u/7488394?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
+<div style="display: flex; justify-content: center; flex-wrap: wrap;"><a href="https://github.com/mustafacagri" target="_blank"><img src="https://avatars.githubusercontent.com/u/7488394?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/ishaan1995" target="_blank"><img src="https://avatars.githubusercontent.com/u/12032343?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/IDouble" target="_blank"><img src="https://avatars.githubusercontent.com/u/18186995?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/BionStt" target="_blank"><img src="https://avatars.githubusercontent.com/u/43228630?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
@@ -74,7 +73,6 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳
 <a href="https://github.com/Some1Uknow" target="_blank"><img src="https://avatars.githubusercontent.com/u/130275024?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/AbinashC2" target="_blank"><img src="https://avatars.githubusercontent.com/u/132013987?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/davidfgomes" target="_blank"><img src="https://avatars.githubusercontent.com/u/132530609?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
-<a href="https://github.com/Anantdadhich" target="_blank"><img src="https://avatars.githubusercontent.com/u/132841356?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/warmice71" target="_blank"><img src="https://avatars.githubusercontent.com/u/136490321?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/UrCode-Buddy" target="_blank"><img src="https://avatars.githubusercontent.com/u/136894128?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/LefterisXefteris" target="_blank"><img src="https://avatars.githubusercontent.com/u/136985982?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
@@ -120,5 +118,5 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳
 ---
 
 <!--START_SECTION:workflows-->
-*Note: All the data displayed above is updated automatically via GitHub Actions. There have been **19** workflow runs so far.*
+*Note: All the data displayed above is updated automatically via GitHub Actions. There have been **20** workflow runs so far.*
 <!--END_SECTION:workflows-->
