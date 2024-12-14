@@ -109,25 +109,24 @@
 
 ---
 
+<br/>
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@pulkitxm/b09efaa2-860c-4ed4-afbe-4a645828d6fe.svg">
-    <img src="https://wakatime.com/share/@pulkitxm/b09efaa2-860c-4ed4-afbe-4a645828d6fe.svg" width="100%" height="auto" style="max-height: 400px; object-fit: contain;">
+    <img src="https://wakatime.com/share/@pulkitxm/b09efaa2-860c-4ed4-afbe-4a645828d6fe.svg" width="100%" height="auto">
 </picture>
 
-<br/><br/>
+<br/>
 
----
+------------
 
-### Let's Connect
+<!--START_SECTION:workflows-update-->
 
-- [LinkedIn](https://www.linkedin.com/in/pulkitxm)
-- [Twitter](https://x.com/devpulkitt)
-- [Email](mailto:kpulkit15234@gmail.com)
+<p align="center">
+      This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
+      Last refresh: <b> 14 Dec 2024 09:38:35 GMT</b><br/>
+      Number of workflows: 24<br/><br/>
+      Made with ❤️ by Pulkit
+    </p>
 
----
-
-<!--START_SECTION:workflows-->
-
-_Note: All the data displayed above is updated automatically via GitHub Actions. There have been **20** workflow runs so far._
-
-<!--END_SECTION:workflows-->
+<!--END_SECTION:workflows-update-->

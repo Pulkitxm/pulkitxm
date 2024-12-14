@@ -14,7 +14,7 @@ const octokit = new Octokit({
   auth: process.env.ACCESS_TOKEN,
 });
 
-const getWorflowCount = async () => {
+const getLatestWorkflow = async () => {
   const username = "pulkitxm";
   const repoName = username;
   try {
@@ -22,25 +22,36 @@ const getWorflowCount = async () => {
       owner: username,
       repo: repoName,
     });
-    return response.data.total_count;
+    return {
+      count: response.data.total_count,
+      timeStamp: response.data.workflow_runs[0].created_at,
+    };
   } catch (error) {
     console.error(error.message);
-    return 0;
+    return {
+      count: 0,
+      timeStamp: new Date().toISOString(),
+    };
   }
 };
 
 export async function updateWorkflowNumber() {
-  const workflowCount = await getWorflowCount();
+  const workflowDetails = await getLatestWorkflow();
+  const count = workflowDetails.count;
+  const timeStamp = new Date(workflowDetails.timeStamp);
+
   const readmeContent = readFileSync(READMEFILE_PATH, "utf-8");
 
-  // *Note: All the data displayed above is updated automatically via GitHub Actions. There have been **3** workflow runs so far.*
   const updatedContent = readmeContent.replace(
-    /Note: All the data displayed above is updated automatically via GitHub Actions. There have been \*\*\d+\*\* workflow runs so far./,
-    `Note: All the data displayed above is updated automatically via GitHub Actions. There have been **${workflowCount}** workflow runs so far.`
+    /(?<=<!--START_SECTION:workflows-update-->\n)[\s\S]*(?=\n<!--END_SECTION:workflows-update-->)/,
+    `\n<p align="center">
+      This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
+      Last refresh: <b>${timeStamp.toUTCString().split(",")[1]}</b><br/>
+      Number of workflows: <b>${count}</b><br/><br/>
+      Made with ❤️ by Pulkit
+    </p>\n`
   );
 
   writeFileSync(READMEFILE_PATH, updatedContent, "utf-8");
-  console.log(
-    `README file updated with the latest workflow count(${workflowCount}).`
-  );
+  console.log(`README file updated with the latest workflow count(${count}).`);
 }

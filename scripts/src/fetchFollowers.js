@@ -8,7 +8,7 @@ if(process.env.ACCESS_TOKEN === undefined){
 
 import { Octokit } from "@octokit/rest";
 import { readFileSync, writeFileSync } from "fs";
-import { updateWorkflowNumber } from "./updateWorkflowNumber.js";
+import { updateWorkflowNumber } from "./updateWorkflow.js";
 import { READMEFILE_PATH } from "./config.js";
 
 const octokit = new Octokit({

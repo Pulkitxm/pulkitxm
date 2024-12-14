@@ -3,7 +3,7 @@ dotenv.config();
 
 import axios from "axios";
 import { readFileSync, writeFileSync } from "fs";
-import { updateWorkflowNumber } from "./updateWorkflowNumber.js";
+import { updateWorkflowNumber } from "./updateWorkflow.js";
 import { BlogsResponseSchema, READMEFILE_PATH } from "./config.js";
 
 const fetchLatestBlogs = async () => {
