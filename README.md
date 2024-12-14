@@ -22,14 +22,12 @@
 ### :pencil: [Latest blog posts](https://blogs.devpulkit.in)
 
 <!--START_SECTION:blog-posts-->
-
-| Title                                                                                                                          | Date         | Image                                                                                                                                               | Read More                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------ | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Boost Your Link Previews: Implementing Open Graph Images in Next.js](https://blogs.devpulkit.in/open-graph-images-in-nextjs)  | Nov 15, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731658433998/70bdbb5d-1123-478d-b35a-316169ce5615.png" width="200" height="auto" />  | [Read More](https://blogs.devpulkit.in/open-graph-images-in-nextjs)           |
-| [Setting Up Prisma ORM with PostgreSQL](https://blogs.devpulkit.in/setting-up-prisma-orm-with-postgresql)                      | Aug 17, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734016058521/1d653d70-3204-40fa-9272-58298cd8e663.webp" width="200" height="auto" /> | [Read More](https://blogs.devpulkit.in/setting-up-prisma-orm-with-postgresql) |
-| [Adding Animated Image Zoom to Your React App with PhotoSwipe](https://blogs.devpulkit.in/react-image-gallery-with-photoswipe) | Aug 12, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723050714944/ecb7f6c0-7151-4ce1-9c57-08c47e2a6625.jpeg" width="200" height="auto" /> | [Read More](https://blogs.devpulkit.in/react-image-gallery-with-photoswipe)   |
-| [Creating a Custom Context Menu in React with react-contexify](https://blogs.devpulkit.in/react-contexify-context-menu)        | Aug 10, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723299988659/d89577ae-d1ab-45f7-aff3-867006182116.gif" width="200" height="auto" />  | [Read More](https://blogs.devpulkit.in/react-contexify-context-menu)          |
-
+| Title | Date | Image | Read More |
+| ----- | ---- | ----- | --------- |
+| [Building a Contact Form in Next.js with Resend Email Integration](https://blogs.devpulkit.in/emails-with-resend) | Dec 13, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734081142688/30bd0035-ff2e-4a94-a3f3-5549231565e4.jpeg" width="200" height="auto" /> | [Read More](https://blogs.devpulkit.in/emails-with-resend) |
+| [Boost Your Link Previews: Implementing Open Graph Images in Next.js](https://blogs.devpulkit.in/open-graph-images-in-nextjs) | Nov 15, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731658433998/70bdbb5d-1123-478d-b35a-316169ce5615.png" width="200" height="auto" /> | [Read More](https://blogs.devpulkit.in/open-graph-images-in-nextjs) |
+| [Setting Up Prisma ORM with PostgreSQL](https://blogs.devpulkit.in/setting-up-prisma-orm-with-postgresql) | Aug 17, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734016058521/1d653d70-3204-40fa-9272-58298cd8e663.webp" width="200" height="auto" /> | [Read More](https://blogs.devpulkit.in/setting-up-prisma-orm-with-postgresql) |
+| [Adding Animated Image Zoom to Your React App with PhotoSwipe](https://blogs.devpulkit.in/react-image-gallery-with-photoswipe) | Aug 12, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723050714944/ecb7f6c0-7151-4ce1-9c57-08c47e2a6625.jpeg" width="200" height="auto" /> | [Read More](https://blogs.devpulkit.in/react-image-gallery-with-photoswipe) |
 <!--END_SECTION:blog-posts-->
 
 ---
@@ -124,8 +122,8 @@
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b> 14 Dec 2024 09:38:35 GMT</b><br/>
-      Number of workflows: 24<br/><br/>
+      Last refresh: <b> 14 Dec 2024 09:46:44 GMT</b><br/>
+      Number of workflows: <b>28</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
