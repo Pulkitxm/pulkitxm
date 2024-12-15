@@ -57,12 +57,12 @@ async function main() {
   let readme = readFileSync(READMEFILE_PATH, "utf-8");
   readme = readme.replace(
     /(?<=<!--START_SECTION:blog-posts-->\n)[\s\S]*(?=\n<!--END_SECTION:blog-posts-->)/,
-    `| Title | Date | Image | Read More |\n` +
-      `| ----- | ---- | ----- | --------- |\n` +
+    `| Title | Date | Image |\n` +
+      `| ----- | ---- | ----- |\n` +
       blogs
         .map(
           (blog) =>
-            `| [${blog.title}](${blog.url}) | ${blog.dateAdded} | <img src="${blog.coverImage.url}" width="200" height="auto" /> | [Read More](${blog.url}) |`
+            `| [${blog.title}](${blog.url}) | ${blog.dateAdded} | <img src="${blog.coverImage.url}" width="300" height="auto" />`
         )
         .join("\n")
   );

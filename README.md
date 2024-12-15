@@ -22,12 +22,12 @@
 ### :pencil: [Latest blog posts](https://blogs.devpulkit.in)
 
 <!--START_SECTION:blog-posts-->
-| Title | Date | Image | Read More |
-| ----- | ---- | ----- | --------- |
-| [Building a Contact Form in Next.js with Resend Email Integration](https://blogs.devpulkit.in/emails-with-resend) | Dec 13, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734081142688/30bd0035-ff2e-4a94-a3f3-5549231565e4.jpeg" width="200" height="auto" /> | [Read More](https://blogs.devpulkit.in/emails-with-resend) |
-| [Boost Your Link Previews: Implementing Open Graph Images in Next.js](https://blogs.devpulkit.in/open-graph-images-in-nextjs) | Nov 15, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731658433998/70bdbb5d-1123-478d-b35a-316169ce5615.png" width="200" height="auto" /> | [Read More](https://blogs.devpulkit.in/open-graph-images-in-nextjs) |
-| [Setting Up Prisma ORM with PostgreSQL](https://blogs.devpulkit.in/setting-up-prisma-orm-with-postgresql) | Aug 17, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734016058521/1d653d70-3204-40fa-9272-58298cd8e663.webp" width="200" height="auto" /> | [Read More](https://blogs.devpulkit.in/setting-up-prisma-orm-with-postgresql) |
-| [Adding Animated Image Zoom to Your React App with PhotoSwipe](https://blogs.devpulkit.in/react-image-gallery-with-photoswipe) | Aug 12, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723050714944/ecb7f6c0-7151-4ce1-9c57-08c47e2a6625.jpeg" width="200" height="auto" /> | [Read More](https://blogs.devpulkit.in/react-image-gallery-with-photoswipe) |
+| Title | Date | Image |
+| ----- | ---- | ----- |
+| [Building a Contact Form in Next.js with Resend Email Integration](https://blogs.devpulkit.in/emails-with-resend) | Dec 13, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734081142688/30bd0035-ff2e-4a94-a3f3-5549231565e4.jpeg" width="300" height="auto" />
+| [Boost Your Link Previews: Implementing Open Graph Images in Next.js](https://blogs.devpulkit.in/open-graph-images-in-nextjs) | Nov 15, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731658433998/70bdbb5d-1123-478d-b35a-316169ce5615.png" width="300" height="auto" />
+| [Setting Up Prisma ORM with PostgreSQL](https://blogs.devpulkit.in/setting-up-prisma-orm-with-postgresql) | Aug 17, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734016058521/1d653d70-3204-40fa-9272-58298cd8e663.webp" width="300" height="auto" />
+| [Adding Animated Image Zoom to Your React App with PhotoSwipe](https://blogs.devpulkit.in/react-image-gallery-with-photoswipe) | Aug 12, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723050714944/ecb7f6c0-7151-4ce1-9c57-08c47e2a6625.jpeg" width="300" height="auto" />
 <!--END_SECTION:blog-posts-->
 
 ---
