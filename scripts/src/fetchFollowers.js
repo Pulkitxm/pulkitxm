@@ -1,7 +1,7 @@
 import dotenv from "dotenv";
 dotenv.config();
 
-if(process.env.ACCESS_TOKEN === undefined){
+if (process.env.ACCESS_TOKEN === undefined) {
   console.error("Please provide ACCESS_TOKEN in .env file");
   process.exit(1);
 }
@@ -42,8 +42,8 @@ async function main() {
   let readme = readFileSync(READMEFILE_PATH, "utf-8");
 
   readme = readme.replace(
-    /(?<=<!--START_SECTION:top-followers-heading-->\n### :sparkles: \[My followers \()(\d+)(?=\)\])/,
-    `${followersLength}`
+    /(?<=<!--START_SECTION:top-followers-heading-->\n)[\s\S]*(?=\n<!--End_SECTION:top-followers-heading-->)/,
+    `\n### :sparkles: [My followers (${followersLength})](https://github.com/Pulkitxm?tab=followers)\n`
   );
 
   readme = readme.replace(
@@ -58,14 +58,9 @@ async function main() {
       `</div>`
   );
 
- 
-
-  // Update the followers count
-
-
   writeFileSync(READMEFILE_PATH, readme);
 }
 
-main().then(async()=>{
-  await updateWorkflowNumber()
-})
+main().then(async () => {
+  await updateWorkflowNumber();
+});
