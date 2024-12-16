@@ -96,7 +96,8 @@
 <a href="https://github.com/GUARDIANSOFCODE" target="_blank"><img src="https://avatars.githubusercontent.com/u/160457369?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/kxitika" target="_blank"><img src="https://avatars.githubusercontent.com/u/163126463?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/mebremame" target="_blank"><img src="https://avatars.githubusercontent.com/u/165416120?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
-<a href="https://github.com/cgchiraggupta" target="_blank"><img src="https://avatars.githubusercontent.com/u/173843331?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a></div>
+<a href="https://github.com/cgchiraggupta" target="_blank"><img src="https://avatars.githubusercontent.com/u/173843331?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
+<a href="https://github.com/devpulkitt" target="_blank"><img src="https://avatars.githubusercontent.com/u/191749786?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a></div>
 <!--END_SECTION:top-followers-->
 
 ---
@@ -122,8 +123,8 @@
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b> 15 Dec 2024 02:20:38 GMT</b><br/>
-      Number of workflows: <b>30</b><br/><br/>
+      Last refresh: <b> 16 Dec 2024 02:16:53 GMT</b><br/>
+      Number of workflows: <b>31</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
