@@ -103,9 +103,13 @@
 
 ---
 
-### GitHub Certifications
+### Certifications
 
-[<img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="300"/>](https://www.credly.com/badges/0d980c06-511c-4e3d-a9a7-9973688b34ad)
+
+| Certification Name        | Issuing Organization  | Issue Date    | Verification Link |
+|---------------------------|-----------------------|---------------|-------------------|
+| GitHub Foundations | [Github](https://www.credly.com/org/github) | November 14, 2024 | [View Certificate](https://www.credly.com/badges/0d980c06-511c-4e3d-a9a7-9973688b34ad) |
+| Full Stack Open | [University of helsinki, Finland](https://www.helsinki.fi/en) | March 21, 2024 | [View Certificate](https://github.com/Pulkitxm/fullstackopen/blob/main/Certificates/Pulkit%20Pulkit.pdf) |
 
 ---
 
