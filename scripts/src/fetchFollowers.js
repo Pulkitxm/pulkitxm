@@ -30,6 +30,10 @@ const getLatestFollowers = async () => {
       picUrl: follower.avatar_url,
     }));
 
+    followers.sort((a, b) => {
+      return a.profileUrl.localeCompare(b.profileUrl);
+    });
+
     return followers;
   } catch (error) {
     console.error("Error fetching followers:", error.message);
