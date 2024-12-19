@@ -34,7 +34,7 @@
 
 <!--START_SECTION:top-followers-heading-->
 
-### :sparkles: [My followers (59)](https://github.com/Pulkitxm?tab=followers)
+### :sparkles: [My followers (60)](https://github.com/Pulkitxm?tab=followers)
 
 <!--End_SECTION:top-followers-heading-->
 
@@ -52,6 +52,7 @@
 <a href="https://github.com/ahmadsalahuddeen" target="_blank"><img src="https://avatars.githubusercontent.com/u/71287508?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/Anujmishra2005" target="_blank"><img src="https://avatars.githubusercontent.com/u/72244992?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/OfficialCodeVoyage" target="_blank"><img src="https://avatars.githubusercontent.com/u/72575602?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
+<a href="https://github.com/r3ss1" target="_blank"><img src="https://avatars.githubusercontent.com/u/75430531?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/smitjiwani" target="_blank"><img src="https://avatars.githubusercontent.com/u/78549024?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/adedolapoadegboye" target="_blank"><img src="https://avatars.githubusercontent.com/u/79329667?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/Sameer103" target="_blank"><img src="https://avatars.githubusercontent.com/u/79912125?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
@@ -123,8 +124,8 @@
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b> 19 Dec 2024 02:09:44 GMT</b><br/>
-      Number of workflows: <b>37</b><br/><br/>
+      Last refresh: <b> 19 Dec 2024 09:21:00 GMT</b><br/>
+      Number of workflows: <b>38</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
