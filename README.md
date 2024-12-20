@@ -34,7 +34,7 @@
 
 <!--START_SECTION:top-followers-heading-->
 
-### :sparkles: [My followers (60)](https://github.com/Pulkitxm?tab=followers)
+### :sparkles: [My followers (62)](https://github.com/Pulkitxm?tab=followers)
 
 <!--End_SECTION:top-followers-heading-->
 
@@ -62,6 +62,7 @@
 <a href="https://github.com/GauravKesh" target="_blank"><img src="https://avatars.githubusercontent.com/u/98611148?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/gbowne1" target="_blank"><img src="https://avatars.githubusercontent.com/u/47549872?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/GUARDIANSOFCODE" target="_blank"><img src="https://avatars.githubusercontent.com/u/160457369?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
+<a href="https://github.com/harshitduttshukla" target="_blank"><img src="https://avatars.githubusercontent.com/u/148779601?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/harshsoni003" target="_blank"><img src="https://avatars.githubusercontent.com/u/155532861?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/Heismanish" target="_blank"><img src="https://avatars.githubusercontent.com/u/92051445?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/Het-Rasadiya" target="_blank"><img src="https://avatars.githubusercontent.com/u/118646018?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
@@ -72,6 +73,7 @@
 <a href="https://github.com/juan-diego-v" target="_blank"><img src="https://avatars.githubusercontent.com/u/144888274?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/kanakOS01" target="_blank"><img src="https://avatars.githubusercontent.com/u/114474953?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/kxitika" target="_blank"><img src="https://avatars.githubusercontent.com/u/163126463?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
+<a href="https://github.com/LakshayxBansal" target="_blank"><img src="https://avatars.githubusercontent.com/u/163767683?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/LefterisXefteris" target="_blank"><img src="https://avatars.githubusercontent.com/u/136985982?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/Manas-thakur" target="_blank"><img src="https://avatars.githubusercontent.com/u/94138492?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/mebremame" target="_blank"><img src="https://avatars.githubusercontent.com/u/165416120?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
@@ -128,8 +130,8 @@
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b> 19 Dec 2024 09:36:39 GMT</b><br/>
-      Number of workflows: <b>40</b><br/><br/>
+      Last refresh: <b> 20 Dec 2024 02:03:38 GMT</b><br/>
+      Number of workflows: <b>41</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
