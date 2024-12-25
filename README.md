@@ -24,22 +24,23 @@
 <!--START_SECTION:blog-posts-->
 | Title | Date | Image |
 | ----- | ---- | ----- |
-| [Building a Contact Form in Next.js with Resend Email Integration](https://blogs.devpulkit.in/emails-with-resend) | Dec 13, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734081142688/30bd0035-ff2e-4a94-a3f3-5549231565e4.jpeg" width="300" height="auto" />
 | [Boost Your Link Previews: Implementing Open Graph Images in Next.js](https://blogs.devpulkit.in/open-graph-images-in-nextjs) | Nov 15, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731658433998/70bdbb5d-1123-478d-b35a-316169ce5615.png" width="300" height="auto" />
 | [Setting Up Prisma ORM with PostgreSQL](https://blogs.devpulkit.in/setting-up-prisma-orm-with-postgresql) | Aug 17, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734016058521/1d653d70-3204-40fa-9272-58298cd8e663.webp" width="300" height="auto" />
 | [Adding Animated Image Zoom to Your React App with PhotoSwipe](https://blogs.devpulkit.in/react-image-gallery-with-photoswipe) | Aug 12, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723050714944/ecb7f6c0-7151-4ce1-9c57-08c47e2a6625.jpeg" width="300" height="auto" />
+| [Creating a Custom Context Menu in React with react-contexify](https://blogs.devpulkit.in/react-contexify-context-menu) | Aug 10, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723299988659/d89577ae-d1ab-45f7-aff3-867006182116.gif" width="300" height="auto" />
 <!--END_SECTION:blog-posts-->
 
 ---
 
 <!--START_SECTION:top-followers-heading-->
 
-### :sparkles: [My followers (64)](https://github.com/Pulkitxm?tab=followers)
+### :sparkles: [My followers (65)](https://github.com/Pulkitxm?tab=followers)
 
 <!--End_SECTION:top-followers-heading-->
 
 <!--START_SECTION:top-followers-->
-<div style="display: flex; justify-content: center; flex-wrap: wrap;"><a href="https://github.com/AakashGujar" target="_blank"><img src="https://avatars.githubusercontent.com/u/109903705?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
+<div style="display: flex; justify-content: center; flex-wrap: wrap;"><a href="https://github.com/3i14d" target="_blank"><img src="https://avatars.githubusercontent.com/u/33893565?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
+<a href="https://github.com/AakashGujar" target="_blank"><img src="https://avatars.githubusercontent.com/u/109903705?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/aashutosh004" target="_blank"><img src="https://avatars.githubusercontent.com/u/152780762?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/AayushhGoyal" target="_blank"><img src="https://avatars.githubusercontent.com/u/126490041?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/AayushKarwa" target="_blank"><img src="https://avatars.githubusercontent.com/u/89857864?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
@@ -132,8 +133,8 @@
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b> 24 Dec 2024 02:01:16 GMT</b><br/>
-      Number of workflows: <b>45</b><br/><br/>
+      Last refresh: <b> 25 Dec 2024 01:57:04 GMT</b><br/>
+      Number of workflows: <b>46</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
