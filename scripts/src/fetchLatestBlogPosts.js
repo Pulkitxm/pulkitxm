@@ -62,7 +62,7 @@ async function main() {
       blogs
         .map(
           (blog) =>
-            `| [${blog.title}](${blog.url}) | ${blog.dateAdded} | <img src="${blog.coverImage.url}" width="300" height="auto" />`
+            `| [${blog.title}](${blog.url}) | ${blog.dateAdded} | <img src="${blog.coverImage.url}?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp"  />`
         )
         .join("\n")
   );
