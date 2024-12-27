@@ -1,10 +1,8 @@
 name: Update Readme
-
 on:
   workflow_dispatch:
   schedule:
     - cron: "30 0 * * *"
-
 jobs:
   update-followers:
     runs-on: ubuntu-latest
@@ -18,13 +16,14 @@ jobs:
           cd scripts && npm install && ACCESS_TOKEN=${{ secrets.ACCESS_TOKEN }} npm run get:posts
       - name: Commit changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "${{ secrets.GIT_EMAIL }}"
+          git config --local user.name "${{ secrets.GIT_USERNAME }}"
           git add -A
           git diff-index --quiet HEAD || git commit -m "Updated README.md"
       - name: Pull changes
         run: git pull -r
       - name: Push changes
-        uses: ad-m/github-push-action@d91a481090679876dfc4178fef17f286781251df
+        uses: ad-m/github-push-action@master
         with:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
