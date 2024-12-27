@@ -39,6 +39,13 @@ export async function updateWorkflowNumber() {
   const workflowDetails = await getLatestWorkflow();
   const count = workflowDetails.count;
   const timeStamp = new Date(workflowDetails.timeStamp);
+  const time = new Date(
+    timeStamp.getTime() + 5.5 * 60 * 60 * 1000
+  ).toLocaleString("en-US", {
+    timeZone: "Asia/Kolkata",
+    dateStyle: "medium",
+    timeStyle: "short",
+  }) +" IST";
 
   const readmeContent = readFileSync(READMEFILE_PATH, "utf-8");
 
@@ -46,7 +53,7 @@ export async function updateWorkflowNumber() {
     /(?<=<!--START_SECTION:workflows-update-->\n)[\s\S]*(?=\n<!--END_SECTION:workflows-update-->)/,
     `\n<p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b>${timeStamp.toUTCString().split(",")[1]}</b><br/>
+      Last refresh: <b>${time}</b><br/>
       Number of workflows: <b>${count}</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>\n`
