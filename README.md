@@ -2,7 +2,7 @@
 
  <br/>
  
- My name is Pulkit. I'm a undergraduate from 🇮🇳
+ My name is Pulkit. I'm a undergraduate from 🇮🇳 [![wakatime](https://wakatime.com/badge/user/018b392d-3ab1-4608-aec5-c9d51a551252.svg)](https://wakatime.com/@018b392d-3ab1-4608-aec5-c9d51a551252)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pulkitxm&show_icons=true&theme=tokyonight">
@@ -119,11 +119,8 @@
 
 <br/>
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@pulkitxm/b09efaa2-860c-4ed4-afbe-4a645828d6fe.svg">
-    <img src="https://wakatime.com/share/@pulkitxm/b09efaa2-860c-4ed4-afbe-4a645828d6fe.svg" width="100%" height="auto">
-</picture>
 
+[<img src="https://wakatime.com/share/@pulkitxm/b09efaa2-860c-4ed4-afbe-4a645828d6fe.svg" />](https://wakatime.com/@018b392d-3ab1-4608-aec5-c9d51a551252)
 <br/>
 
 ------------
