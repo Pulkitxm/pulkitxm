@@ -39,13 +39,12 @@ export async function updateWorkflowNumber() {
   const workflowDetails = await getLatestWorkflow();
   const count = workflowDetails.count;
   const timeStamp = new Date(workflowDetails.timeStamp);
-  const time = new Date(
-    timeStamp.getTime() + 5.5 * 60 * 60 * 1000
-  ).toLocaleString("en-US", {
+  const time =
+  new Date(workflowDetails.timeStamp).toLocaleString("en-US", {
     timeZone: "Asia/Kolkata",
     dateStyle: "medium",
     timeStyle: "short",
-  }) +" IST";
+  }) + " IST";
 
   const readmeContent = readFileSync(READMEFILE_PATH, "utf-8");
 
