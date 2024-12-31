@@ -4,10 +4,7 @@
  
  My name is Pulkit. I'm a undergraduate from 🇮🇳 [![wakatime](https://wakatime.com/badge/user/018b392d-3ab1-4608-aec5-c9d51a551252.svg)](https://wakatime.com/@018b392d-3ab1-4608-aec5-c9d51a551252)
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pulkitxm&show_icons=true&theme=tokyonight">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=pulkitxm&show_icons=true&theme=tokyonight">
-</picture>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=pulkitxm&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10">
 
 - :computer: Know more about me: [devpulkit.in](https://www.devpulkit.in/)
 - :pencil2: JavaScript / TypeScript / Python
