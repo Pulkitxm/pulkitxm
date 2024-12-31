@@ -1,8 +1,15 @@
 [![pulkitxm](https://utfs.io/f/fAg0SbN5tYMawKGr0YTf0H1JXoMj5DTdB38FOVscE2yeUhwa)](https://www.holopin.io/@pulkitxm)
 
- <br/>
+<br/>
  
- My name is Pulkit. I'm a undergraduate from 🇮🇳 [![wakatime](https://wakatime.com/badge/user/018b392d-3ab1-4608-aec5-c9d51a551252.svg)](https://wakatime.com/@018b392d-3ab1-4608-aec5-c9d51a551252)
+My name is Pulkit. I'm a undergraduate from 🇮🇳 [![wakatime](https://wakatime.com/badge/user/018b392d-3ab1-4608-aec5-c9d51a551252.svg)](https://wakatime.com/@018b392d-3ab1-4608-aec5-c9d51a551252)
+
+<h3>
+ I’m currently seeking opportunities where I can contribute, learn, and grow as a developer. If you’re looking for someone passionate about building impactful software and eager to dive into new challenges, let’s connect!
+ <br/>
+ Feel free to reach out or drop a message at <a href="http://devpulkit.in/contact">devpulkit.in/contact</a>
+</h3>
+<br/>
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=pulkitxm&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10">
 
@@ -19,12 +26,12 @@
 ### :pencil: [Latest blog posts](https://blogs.devpulkit.in)
 
 <!--START_SECTION:blog-posts-->
-| Title | Date | Image |
-| ----- | ---- | ----- |
-| [Building a Contact Form in Next.js with Resend Email Integration](https://blogs.devpulkit.in/emails-with-resend) | Dec 13, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734081142688/30bd0035-ff2e-4a94-a3f3-5549231565e4.jpeg?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp"  />
-| [Boost Your Link Previews: Implementing Open Graph Images in Next.js](https://blogs.devpulkit.in/open-graph-images-in-nextjs) | Nov 15, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731658433998/70bdbb5d-1123-478d-b35a-316169ce5615.png?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp"  />
-| [Setting Up Prisma ORM with PostgreSQL](https://blogs.devpulkit.in/setting-up-prisma-orm-with-postgresql) | Aug 17, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734016058521/1d653d70-3204-40fa-9272-58298cd8e663.webp?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp"  />
-| [Adding Animated Image Zoom to Your React App with PhotoSwipe](https://blogs.devpulkit.in/react-image-gallery-with-photoswipe) | Aug 12, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723050714944/ecb7f6c0-7151-4ce1-9c57-08c47e2a6625.jpeg?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp"  />
+| Title                                                                                                                          | Date         | Image                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Building a Contact Form in Next.js with Resend Email Integration](https://blogs.devpulkit.in/emails-with-resend)              | Dec 13, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734081142688/30bd0035-ff2e-4a94-a3f3-5549231565e4.jpeg?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp"  /> |
+| [Boost Your Link Previews: Implementing Open Graph Images in Next.js](https://blogs.devpulkit.in/open-graph-images-in-nextjs)  | Nov 15, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731658433998/70bdbb5d-1123-478d-b35a-316169ce5615.png?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp"  />  |
+| [Setting Up Prisma ORM with PostgreSQL](https://blogs.devpulkit.in/setting-up-prisma-orm-with-postgresql)                      | Aug 17, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734016058521/1d653d70-3204-40fa-9272-58298cd8e663.webp?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp"  /> |
+| [Adding Animated Image Zoom to Your React App with PhotoSwipe](https://blogs.devpulkit.in/react-image-gallery-with-photoswipe) | Aug 12, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723050714944/ecb7f6c0-7151-4ce1-9c57-08c47e2a6625.jpeg?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp"  /> |
 <!--END_SECTION:blog-posts-->
 
 ---
@@ -109,10 +116,10 @@
 ### Certifications
 
 
-| Certification Name        | Issuing Organization  | Issue Date    | Verification Link |
-|---------------------------|-----------------------|---------------|-------------------|
-| GitHub Foundations | [Github](https://www.credly.com/org/github) | November 14, 2024 | [View Certificate](https://www.credly.com/badges/0d980c06-511c-4e3d-a9a7-9973688b34ad) |
-| Full Stack Open | [University of helsinki, Finland](https://www.helsinki.fi/en) | March 21, 2024 | [View Certificate](https://github.com/Pulkitxm/fullstackopen/blob/main/Certificates/Pulkit%20Pulkit.pdf) |
+| Certification Name | Issuing Organization                                          | Issue Date        | Verification Link                                                                                        |
+| ------------------ | ------------------------------------------------------------- | ----------------- | -------------------------------------------------------------------------------------------------------- |
+| GitHub Foundations | [Github](https://www.credly.com/org/github)                   | November 14, 2024 | [View Certificate](https://www.credly.com/badges/0d980c06-511c-4e3d-a9a7-9973688b34ad)                   |
+| Full Stack Open    | [University of helsinki, Finland](https://www.helsinki.fi/en) | March 21, 2024    | [View Certificate](https://github.com/Pulkitxm/fullstackopen/blob/main/Certificates/Pulkit%20Pulkit.pdf) |
 
 ---
 
