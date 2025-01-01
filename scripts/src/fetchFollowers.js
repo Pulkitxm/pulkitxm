@@ -8,7 +8,6 @@ if (process.env.ACCESS_TOKEN === undefined) {
 
 import { Octokit } from "@octokit/rest";
 import { readFileSync, writeFileSync } from "fs";
-import { updateWorkflowNumber } from "./updateWorkflow.js";
 import { READMEFILE_PATH } from "./config.js";
 
 const octokit = new Octokit({
@@ -22,7 +21,7 @@ const getLatestFollowers = async () => {
       {
         username: username,
         per_page: 1000000000000,
-      }
+      },
     );
 
     const followers = data.map((follower) => ({
@@ -40,14 +39,14 @@ const getLatestFollowers = async () => {
   }
 };
 
-async function main() {
+export async function handleFetchFollowers() {
   const followers = await getLatestFollowers();
   const followersLength = followers.length;
   let readme = readFileSync(READMEFILE_PATH, "utf-8");
 
   readme = readme.replace(
     /(?<=<!--START_SECTION:top-followers-heading-->\n)[\s\S]*(?=\n<!--End_SECTION:top-followers-heading-->)/,
-    `\n### :sparkles: [My followers (${followersLength})](https://github.com/Pulkitxm?tab=followers)\n`
+    `\n### :sparkles: [My followers (${followersLength})](https://github.com/Pulkitxm?tab=followers)\n`,
   );
 
   readme = readme.replace(
@@ -56,15 +55,12 @@ async function main() {
       followers
         .map(
           (follower) =>
-            `<a href="${follower.profileUrl}" target="_blank"><img src="${follower.picUrl}" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>`
+            `<a href="${follower.profileUrl}" target="_blank"><img src="${follower.picUrl}" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>`,
         )
         .join("\n") +
-      `</div>`
+      `</div>`,
   );
 
   writeFileSync(READMEFILE_PATH, readme);
+  return followers;
 }
-
-main().then(async () => {
-  await updateWorkflowNumber();
-});

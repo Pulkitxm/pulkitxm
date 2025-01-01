@@ -3,7 +3,6 @@ dotenv.config();
 
 import axios from "axios";
 import { readFileSync, writeFileSync } from "fs";
-import { updateWorkflowNumber } from "./updateWorkflow.js";
 import { BlogsResponseSchema, READMEFILE_PATH } from "./config.js";
 
 const fetchLatestBlogs = async () => {
@@ -51,7 +50,7 @@ query Publication($id: ObjectId = "66213f8be5371b46eac0e05e") {
   }
 };
 
-async function main() {
+export async function handleFetchBlogs() {
   const blogs = await fetchLatestBlogs();
 
   let readme = readFileSync(READMEFILE_PATH, "utf-8");
@@ -62,13 +61,10 @@ async function main() {
       blogs
         .map(
           (blog) =>
-            `| [${blog.title}](${blog.url}) | ${blog.dateAdded} | <img src="${blog.coverImage.url}?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp"  />`
+            `| [${blog.title}](${blog.url}) | ${blog.dateAdded} | <img src="${blog.coverImage.url}?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp"  />`,
         )
-        .join("\n")
+        .join("\n"),
   );
   writeFileSync(READMEFILE_PATH, readme);
+  return blogs;
 }
-
-main().then(async () => {
-  await updateWorkflowNumber();
-});

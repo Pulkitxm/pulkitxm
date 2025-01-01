@@ -8,12 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Update followers list
+      - name: Update followers list & Blogs list
         run: |
-          cd scripts && npm install && ACCESS_TOKEN=${{ secrets.ACCESS_TOKEN }} npm run get:followers
-      - name: Update Blog Posts
-        run: |
-          cd scripts && npm install && ACCESS_TOKEN=${{ secrets.ACCESS_TOKEN }} npm run get:posts
+          cd scripts && npm install && ACCESS_TOKEN=${{ secrets.ACCESS_TOKEN }} npm start
       - name: Commit changes
         run: |
           git config --local user.email "${{ secrets.GIT_EMAIL }}"

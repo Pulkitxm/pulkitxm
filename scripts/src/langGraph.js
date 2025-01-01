@@ -19,7 +19,7 @@ async function getAllRepositories(octokit) {
         affiliation: "owner",
         sort: "updated",
         direction: "desc",
-      }
+      },
     );
 
     const nonForkedRepos = repos.filter((repo) => !repo.fork);
@@ -47,7 +47,7 @@ async function getLanguageStats(octokit, repos) {
       console.log(`Processed languages for ${repo.name}`);
     } catch (error) {
       console.log(
-        `Error fetching languages for ${repo.name}: ${error.message}`
+        `Error fetching languages for ${repo.name}: ${error.message}`,
       );
     }
   }
@@ -59,7 +59,7 @@ async function main() {
   try {
     if (!process.env.ACCESS_TOKEN) {
       throw new Error(
-        "GitHub token not found. Please set ACCESS_TOKEN in .env file."
+        "GitHub token not found. Please set ACCESS_TOKEN in .env file.",
       );
     }
 

@@ -30,7 +30,7 @@ const getLatestWorkflow = async () => {
     console.error(error.message);
     return {
       count: 0,
-      timeStamp: new Date().toISOString(),
+      timeStamp: TODAY.toISOString(),
     };
   }
 };
@@ -38,13 +38,12 @@ const getLatestWorkflow = async () => {
 export async function updateWorkflowNumber() {
   const workflowDetails = await getLatestWorkflow();
   const count = workflowDetails.count;
-  const timeStamp = new Date(workflowDetails.timeStamp);
   const time =
-  new Date(workflowDetails.timeStamp).toLocaleString("en-US", {
-    timeZone: "Asia/Kolkata",
-    dateStyle: "medium",
-    timeStyle: "short",
-  }) + " IST";
+    new Date(workflowDetails.timeStamp).toLocaleString("en-US", {
+      timeZone: "Asia/Kolkata",
+      dateStyle: "medium",
+      timeStyle: "short",
+    }) + " IST";
 
   const readmeContent = readFileSync(READMEFILE_PATH, "utf-8");
 
@@ -55,7 +54,7 @@ export async function updateWorkflowNumber() {
       Last refresh: <b>${time}</b><br/>
       Number of workflows: <b>${count}</b><br/><br/>
       Made with ❤️ by Pulkit
-    </p>\n`
+    </p>\n`,
   );
 
   writeFileSync(READMEFILE_PATH, updatedContent, "utf-8");

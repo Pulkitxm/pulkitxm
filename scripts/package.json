@@ -5,8 +5,10 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "start": "node src/index.js",
     "get:posts": "node src/fetchLatestBlogPosts.js",
-    "get:followers": "node src/fetchFollowers.js"
+    "get:followers": "node src/fetchFollowers.js",
+    "format": "prettier --write \"**/*.{js,json}\""
   },
   "keywords": [],
   "author": "",
@@ -15,6 +17,7 @@
     "@octokit/rest": "^21.0.2",
     "axios": "^1.7.9",
     "dotenv": "^16.4.7",
-    "zod": "^3.23.8"
+    "zod": "^3.23.8",
+    "prettier": "^3.4.2"
   }
 }
